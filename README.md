@@ -34,3 +34,22 @@ I am a C# Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 - 💡: In my free time, I solve challenges on CodeWars and read tech articles.
 
 - 📬:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@AndreyPinchukDev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AndreyPinchukDev)
+
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndreyPinchukDeveloper&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyPinchukDeveloper)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
