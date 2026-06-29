@@ -69,7 +69,3 @@ Backend Software Developer at a large-scale tech organization (since 2023), spec
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyPinchukDeveloper&layout=compact&theme=dark&bg_color=000000&border_color=30363D&title_color=58A6FF&text_color=C9D1D9)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndreyPinchukDeveloper&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyPinchukDeveloper)](https://github.com/anuraghazra/github-readme-stats)
