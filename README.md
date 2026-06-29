@@ -40,6 +40,13 @@ Backend Software Developer at a large-scale tech organization (since 2023), spec
 - **Writing:** Exploring technical content creation.
 - **Game Dev:** Former independent Unity & Desktop Developer (the fun kind of side quest).
 
+### 🎹 Off the Keyboard
+When I'm not wrangling containers or extinguishing production fires:
+
+- **🎵 Piano:** Graduate of a music school with honors. Playing for over [X] years. It's my creative counterweight to code.
+- **🏋️ Power Training:** Discipline doesn't stop at the desk. I train consistently — it builds the same grit I bring to tough debugging sessions.
+
+> *Left brain writes C#, right brain plays Chopin. The gym keeps both in balance.*
 ### 📬 Get in Touch
 [![Telegram Badge](https://img.shields.io/badge/-@AndreyPinchukDev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AndreyPinchukDev)
 
