@@ -39,15 +39,7 @@ Backend Software Developer at a large-scale tech organization (since 2023), spec
 - **Writing:** Exploring technical content creation to share knowledge.
 
 ### 📬 Get in Touch
-
-- 💻: I’m working as an independent desktop, Unity Developer and first of all use the C# language in my daily work.
-
-- 📖: Exploring Technical Content Writing.
-
-- 💡: In my free time, I solve challenges on CodeWars and read tech articles.
-
-- 📬:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@AndreyPinchukDev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AndreyPinchukDev)
-
+[![Telegram Badge](https://img.shields.io/badge/-@AndreyPinchukDev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AndreyPinchukDev)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
