@@ -25,7 +25,6 @@
 </h1>
 </div>
 
-### :man_technologist: 
 ## 👨‍💻 About Me
 Backend Software Developer at a large-scale tech organization (since 2023), specializing in the .NET ecosystem.
 
