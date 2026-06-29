@@ -25,18 +25,21 @@
 </h1>
 </div>
 
-### :man_technologist: About Me :
-Backend Software Developer at a large-scale tech organization (since 2023), specializing in the .NET ecosystem. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### :man_technologist: 
+## 👨‍💻 About Me
+Backend Software Developer at a large-scale tech organization (since 2023), specializing in the .NET ecosystem.
 
 ### 💼 What I Do
 - **Daily Stack:** C#, .NET, MS SQL Server
 - **Infrastructure & Streaming:** Building event-driven systems with **Apache Kafka** and containerizing workloads with **Docker**.
 - **Observability:** Monitoring performance and system health using **Grafana**.
 
-### 🎮 Past Life & Side Quests
-- Former independent Desktop & Unity Game Developer.
-- **Problem Solving:** Active on CodeWars, sharpening my algorithmic thinking.
-- **Writing:** Exploring technical content creation to share knowledge.
+### 🔥 Past Life & Side Quests
+- **Former Firefighter:** Before software, I spent years extinguishing real fires. This forged an iron discipline and a calm-under-pressure mindset that directly translates to production incidents.
+    - *"I don't panic when PagerDuty wakes me up at 3 AM. I triage, contain, and extinguish — whether it's a burning building or a database outage."*
+- **Problem Solving:** Active on CodeWars, keeping my algorithmic thinking sharp.
+- **Writing:** Exploring technical content creation.
+- **Game Dev:** Former independent Unity & Desktop Developer (the fun kind of side quest).
 
 ### 📬 Get in Touch
 [![Telegram Badge](https://img.shields.io/badge/-@AndreyPinchukDev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AndreyPinchukDev)
