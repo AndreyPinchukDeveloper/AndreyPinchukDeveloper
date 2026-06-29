@@ -26,7 +26,20 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a .NET software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Backend Software Developer at a large-scale tech organization (since 2023), specializing in the .NET ecosystem. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+### 💼 What I Do
+- **Daily Stack:** C#, .NET, MS SQL Server
+- **Infrastructure & Streaming:** Building event-driven systems with **Apache Kafka** and containerizing workloads with **Docker**.
+- **Observability:** Monitoring performance and system health using **Grafana**.
+
+### 🎮 Past Life & Side Quests
+- Former independent Desktop & Unity Game Developer.
+- **Problem Solving:** Active on CodeWars, sharpening my algorithmic thinking.
+- **Writing:** Exploring technical content creation to share knowledge.
+
+### 📬 Get in Touch
+
 - 💻: I’m working as an independent desktop, Unity Developer and first of all use the C# language in my daily work.
 
 - 📖: Exploring Technical Content Writing.
