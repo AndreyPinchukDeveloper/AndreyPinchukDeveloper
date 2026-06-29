@@ -26,7 +26,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a C# Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a .NET software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻: I’m working as an independent desktop, Unity Developer and first of all use the C# language in my daily work.
 
 - 📖: Exploring Technical Content Writing.
