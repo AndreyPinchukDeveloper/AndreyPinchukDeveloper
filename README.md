@@ -3,20 +3,25 @@
   <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="200"/>
   
   <div id="badges">
-  <a href = "https://vk.com/id63500019">
-    <img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=white" alt="ВКонтакте Badge"/>
+  <a href = "https://www.linkedin.com/in/andrey-pinchuk-4b46763a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href = "https://www.codewars.com/users/AndreyPinchuk">
-    <img src="https://img.shields.io/badge/CodeWars-orange?style=for-the-badge&logo=CodeWars&logoColor=white" alt="CodeWars Badge"/>
-  </a>
-    
+
   <a href = "https://www.instagram.com/zachemtutnik/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-    
+  
+  <a href = "https://www.codewars.com/users/AndreyPinchuk">
+    <img src="https://img.shields.io/badge/CodeWars-orange?style=for-the-badge&logo=CodeWars&logoColor=white" alt="CodeWars Badge"/>
+  </a>
+  
   <a href = "https://t.me/AndreyPinchukDev">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>  
+    
+  <a href = "https://vk.com/id63500019">
+    <img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=white" alt="ВКонтакте Badge"/>
+  </a>
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=AndreyPinchukDeveloper&style=flat-square&color=blue" alt=""/>
