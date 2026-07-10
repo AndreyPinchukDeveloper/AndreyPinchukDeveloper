@@ -4,11 +4,7 @@
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/andrey-pinchuk-4b46763a4/">
-    <img src="https://badgen.net/badge/LinkedIn/0A66C2?icon=linkedin&label" alt="LinkedIn Badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/andrey-pinchuk-4b46763a4/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
   <a href = "https://www.instagram.com/zachemtutnik/">
