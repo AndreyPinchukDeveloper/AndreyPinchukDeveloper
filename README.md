@@ -3,8 +3,8 @@
   <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="200"/>
   
   <div id="badges">
-  <a href = "https://www.linkedin.com/in/andrey-pinchuk-4b46763a4/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/andrey-pinchuk-4b46763a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
   <a href = "https://www.instagram.com/zachemtutnik/">
